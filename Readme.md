@@ -1,2 +1,1 @@
-# first
-Learning
+Test Java project with git rebase
